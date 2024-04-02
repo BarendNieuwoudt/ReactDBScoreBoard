@@ -1,2 +1,2 @@
 # ReactDBScoreBoard
-A digital scoreboard.
+A digital Scoreboard. In progress. 
